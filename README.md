@@ -1,5 +1,6 @@
 #Description
 This is the Leetcode co-work project.
+
 Our goal is to finish total 321 problems on Leetcode before the start of Fall quarter (sep 2016).
 
 #Update Rule
@@ -21,5 +22,7 @@ Our goal is to finish total 321 problems on Leetcode before the start of Fall qu
 
 #Signature
 Type your name to agree upon above rules.
+
 Signature 1: Junjie Li.
+
 Signature 2:
