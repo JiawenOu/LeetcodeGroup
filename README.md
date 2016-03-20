@@ -11,7 +11,7 @@ This is the Leetcode co-work project.
 2. 格式为[日期-题目Title-Difficulty]。Example: 2016/03/29-Reverse Linked List-Medium
 
 #Cooperation Rule
-1. 每天sync up, 监督对方昨天有没有push code
+1. 打开Github Desktop sync, 监督对方昨天有没有push code
 2. 如果没有push code，则给对方发一个金额随机的红包。
 3. 每周天一次Code Review, 给对方的code一些建议/改进。
 4. 进入Midterm/Final week可以停止。
