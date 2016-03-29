@@ -25,4 +25,4 @@ Type your name to agree upon above rules.
 
 Signature 1: Junjie Li.
 
-Signature 2:
+Signature 2: Jiawen Ou
