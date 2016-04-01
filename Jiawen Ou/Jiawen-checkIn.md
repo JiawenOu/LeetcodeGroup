@@ -1,6 +1,6 @@
 #Check In Here
-格式为[日期-题目Title-Difficulty]。
-Example: 2016/03/29-Reverse Linked List-Medium
+格式为[日期 - 题目Index - 题目Title - Difficulty]。
+Example: 2016/03/29 - 001 - Reverse Linked List - Medium
 
 2016/03/29 - 104 - Maximum Depth of Binary Tree - Easy
 2016/03/30 - 001 - Two Sum - Easy
