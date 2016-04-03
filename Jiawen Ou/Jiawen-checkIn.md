@@ -7,3 +7,4 @@ Example: 2016/03/29 - 001 - Reverse Linked List - Medium
 2016/03/31 - 100 - Same Tree - Easy
 2016/04/01 - 268 - Missing Number - Medium
 		   - 035 - Search Insert Position - Medium
+2016/04/02 - 169 - Majority Element - Easy
