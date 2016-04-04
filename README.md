@@ -1,13 +1,14 @@
 #Description
 This is the Leetcode co-work project.
 
-Our goal is to finish total 321 problems on Leetcode before the start of Fall quarter (sep 2016).
+Our goal is to finish total selected 150 problems (31 Hard, 76 Medium, 43 Easy) on Leetcode before the start of Fall quarter (sep 2016).
 
 #Update Rule
 1. 第一周为适应阶段，每天至少一道题目，多多益善。过了适应阶段再更新schedule。
-2. 题目的选择根据自己喜好，可以尽量保持一致以便于讨论。
-3. 如果是在Leetcode OJ上刷题，也保存一份到这个Github中自己的文件夹内然后push上去。
-4. 如果是在本地写，写完记得push。
+2. 从第二周开始：每周3/8/5的顺序来刷。周五查一下进度。周日讨论。
+3. 题目的选择根据自己喜好，可以尽量保持一致以便于讨论。
+4. 如果是在Leetcode OJ上刷题，也保存一份到这个Github中自己的文件夹内然后push上去。
+5. 如果是在本地写，写完记得push。
 
 #Check in Rule
 1. 在自己的文件夹内有一个checkIn.md，每天push完code后去check in。
